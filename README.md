@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Chips!
 Welcome to my GitHub profile.
 
-I'm a software developer and this space reflects both my professional work and my personal learning journey.
+I'm a software developer and this space reflects my personal learning journey.
 
 ---
 ## 🧠 About My Work
